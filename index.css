@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+h1{
+    font-size: 35px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 24px;
+}
+p{
+    font-size: 16px;
+}
+header{
+    background-color: #B9375E;
+    width: auto;
+    height: 80px;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+a{
+    font-size: medium;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+body{
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+/*@media only screen and (max-width: 960px){
+    body{
+        background-color: pink;
+    }
+}*/
+.card{
+    width: 20rem;
+    height: 25rem;
+    padding: 20px;
+}
+.dgcard{
+    width: 20rem;
+    height: 10rem;
+    padding: 20px;
+    color: white;
+}
+.foot1{
+    background-color: #30343f;
+}
+
+@media only screen and (max-width: 960px){
+    h1{
+        font-size:30px;
+    }
+    h2{
+        font-size: 25px;
+    }
+    h3{
+        font-size: 18px;
+    }
+    p{
+        font-size: 12px;
+    }
+    .card{
+        width: 18rem;
+        height: 23rem;
+        padding: 10px;
+    }
+}

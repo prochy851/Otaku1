@@ -1,0 +1,29 @@
+.parallax1 {
+    background-image: url("./art/thumb-1920-1322308.jpeg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2{
+    background-image: url("./art/wallpapersden.com_nezuko-kamado-in-manga-realistic-style_2184x1224.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax3{
+    background-image: url("./art/king cris one piece.png");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.block1{
+    background-color: #B9375E;
+    height: 180px;
+    text-align: center;
+}
